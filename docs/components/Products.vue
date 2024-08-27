@@ -26,7 +26,7 @@
         :product="{
           avatar: '/images/juiceNote/logo.min.png',
           name: 'JuiceNote',
-          description: '笔记APP',
+          description: '笔记 APP',
           homepage: 'https://cofficlab.github.io/en/kuaiyizhi/',
         }" />
     </div>
@@ -35,7 +35,7 @@
         :product="{
           avatar: '/images/travelmode/logo.min.png',
           name: 'TravelMode',
-          description: '连网控制APP',
+          description: '连网控制 APP',
           homepage: 'https://cofficlab.github.io/en/travelmode/',
         }" />
       <Product
@@ -49,7 +49,7 @@
         :product="{
           avatar: '/images/gitok/logo-512x512.png',
           name: 'GitOk',
-          description: '项目管理APP',
+          description: '项目管理 APP',
           homepage: 'https://cofficlab.github.io/en/gitok/',
         }" />
     </div>
