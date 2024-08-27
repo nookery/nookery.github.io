@@ -1,0 +1,11 @@
+{
+    "MD033": {
+        "allowed_elements": [
+            "div",
+            "h2",
+            "span",
+            "script",
+            "img"
+        ]
+    }
+}
