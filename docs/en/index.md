@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: "About Me"
-  # image: 
+  name: 'About Me'
+  # image:
   #   src: /images/coffic/logo4.png
   actions:
     - theme: alt
@@ -16,7 +16,7 @@ hero:
 
 ## Basic Information <Badge type="tip">985 Bachelor</Badge><Badge type="tip">10 Years Experience</Badge><Badge type="tip">Technology and Management</Badge>
 
-WeChat: noookooon  
+WeChat: noookooon
 
 I enjoy learning new technologies for a specific goal.  
 I look forward to working with a small team to be responsible for the growth of a product.
@@ -67,7 +67,7 @@ Involved in
 
 Personal works are only for personal use and have not been marketed. More can be seen here: <https://cofficlab.github.io/en/>
 
-## 部分专利成果
+## Some Patent Achievements
 
 The links will open in Google Patents.
 
