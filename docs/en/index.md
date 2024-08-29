@@ -119,7 +119,7 @@ const products = [
     name: 'JuiceNote',
     title: 'Note APP',
     links: [
-      { icon: 'github', link: 'https://cofficlab.github.io/zh/kuaiyizhi/' },
+      { icon: 'github', link: 'https://cofficlab.github.io/zh/juiceNote/' },
     ]
   },
   {
