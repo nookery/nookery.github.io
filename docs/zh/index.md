@@ -70,7 +70,7 @@ hero:
 
 ## 个人博客与作品
 
-<Products />
+<VPTeamMembers size="small" :members="products" />
 
 其中个人作品仅为满足个人使用需求，未做市场推广。可在这里查看更多：<https://cofficlab.github.io/en/>
 
@@ -85,47 +85,68 @@ hero:
 - [Project information synchronization method and device](https://patents.google.com/patent/CN114020315A/en)
 - [Timed task execution method and device, storage medium and equipment](https://patents.google.com/patent/CN113590300B/en)
 
-
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 import Products from '../components/Products.vue'
 
-const friends = [
+const products = [
   {
-    avatar: '/images/friends/laravel.png',
-    name: 'Laravel',
-    title: '用于搭建网站、API',
+    avatar: '/images/kuaiyizhi/logo.png',
+    name: '快易知',
+    title: '我的博客',
+    links: [
+      { icon: 'github', link: 'https://www.kuaiyizhi.cn/ideas' },
+    ]
   },
   {
-    avatar: '/images/friends/flutter.png',
-    name: 'Flutter',
-    title: '用于开发跨平台 APP',
+    avatar: '/images/team/nookery.jpeg',
+    name: 'GitHub',
+    title: '我的GitHub',
+    links: [
+      { icon: 'github', link: 'https://github.com/nookery' },
+    ]
   },
   {
-    avatar: '/images/friends/swift.svg',
-    name: 'SwiftUI',
-    title: '笔记软件基于此开发',
+    avatar: '/images/cisum/logo.min.png',
+    name: 'Cisum',
+    title: '音频播放 APP',
+    links: [
+      { icon: 'github', link: 'https://cofficlab.github.io/en/cisum/' },
+    ]
   },
   {
-    avatar: '/images/friends/vuejs.png',
-    name: 'Vue.js',
-    title: '构建简单或复杂的用户界面',
+    avatar: '/images/juiceNote/logo.min.png',
+    name: 'JuiceNote',
+    title: '笔记 APP',
+    links: [
+      { icon: 'github', link: 'https://cofficlab.github.io/en/kuaiyizhi/' },
+    ]
   },
   {
-    avatar: '/images/friends/go.png',
-    name: 'Go',
-    title: '用于开发高性能 API，命令行应用',
+    avatar: '/images/travelmode/logo.min.png',
+    name: 'TravelMode',
+    title: '连网控制 APP',
+    links: [
+      { icon: 'github', link: 'https://cofficlab.github.io/en/travelmode/' },
+    ]
   },
   {
-    avatar: '/images/friends/tailwindcss.png',
-    name: 'Tailwind CSS',
-    title: 'CSS 从未如此简单',
+    avatar: '/images/juiceEditor/logo.min.png',
+    name: 'JuiceEditor',
+    title: '富文本编辑器',
+    links: [
+      { icon: 'github', link: 'https://cofficlab.github.io/en/juiceEditor/' },
+    ]
   },
   {
-    avatar: '/images/friends/linux.min.png',
-    name: 'Linux',
-    title: '天才的作品',
+    avatar: '/images/gitok/logo-512x512.png',
+    name: 'GitOk',
+    title: '项目管理 APP',
+    links: [
+      { icon: 'github', link: 'https://cofficlab.github.io/en/gitok/' },
+    ]
   },
 ]
 </script>
+
 

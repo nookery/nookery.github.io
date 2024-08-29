@@ -70,7 +70,7 @@ Involved in
 
 ## Personal Blog and Works
 
-<Products />
+<VPTeamMembers size="small" :members="products" />
 
 Personal works are only for personal use and have not been marketed. More can be seen here: <https://cofficlab.github.io/en/>
 
@@ -89,41 +89,62 @@ The links will open in Google Patents.
 import { VPTeamMembers } from 'vitepress/theme'
 import Products from '../components/Products.vue'
 
-const friends = [
+const products = [
   {
-    avatar: '/images/friends/laravel.png',
-    name: 'Laravel',
-    title: 'For building websites, APIs',
+    avatar: '/images/kuaiyizhi/logo.png',
+    name: 'Kuaiyizhi',
+    title: 'My Blog',
+    links: [
+      { icon: 'github', link: 'https://www.kuaiyizhi.cn/ideas' },
+    ]
   },
   {
-    avatar: '/images/friends/flutter.png',
-    name: 'Flutter',
-    title: 'For developing cross-platform apps',
+    avatar: '/images/team/nookery.jpeg',
+    name: 'GitHub',
+    title: 'My GitHub',
+    links: [
+      { icon: 'github', link: 'https://github.com/nookery' },
+    ]
   },
   {
-    avatar: '/images/friends/swift.svg',
-    name: 'SwiftUI',
-    title: 'Note-taking software developed with this',
+    avatar: '/images/cisum/logo.min.png',
+    name: 'Cisum',
+    title: 'Audio player',
+    links: [
+      { icon: 'github', link: 'https://cofficlab.github.io/zh/cisum/' },
+    ]
   },
   {
-    avatar: '/images/friends/vuejs.png',
-    name: 'Vue.js',
-    title: 'For building simple or complex user interfaces',
+    avatar: '/images/juiceNote/logo.min.png',
+    name: 'JuiceNote',
+    title: 'Note APP',
+    links: [
+      { icon: 'github', link: 'https://cofficlab.github.io/zh/kuaiyizhi/' },
+    ]
   },
   {
-    avatar: '/images/friends/go.png',
-    name: 'Go',
-    title: 'For developing high-performance APIs, command-line applications',
+    avatar: '/images/travelmode/logo.min.png',
+    name: 'TravelMode',
+    title: 'Control your network',
+    links: [
+      { icon: 'github', link: 'https://cofficlab.github.io/zh/travelmode/' },
+    ]
   },
   {
-    avatar: '/images/friends/tailwindcss.png',
-    name: 'Tailwind CSS',
-    title: 'CSS has never been so simple',
+    avatar: '/images/juiceEditor/logo.min.png',
+    name: 'JuiceEditor',
+    title: 'Rich text editor',
+    links: [
+      { icon: 'github', link: 'https://cofficlab.github.io/zh/juiceEditor/' },
+    ]
   },
   {
-    avatar: '/images/friends/linux.min.png',
-    name: 'Linux',
-    title: 'A work of genius',
+    avatar: '/images/gitok/logo-512x512.png',
+    name: 'GitOk',
+    title: 'Project management APP',
+    links: [
+      { icon: 'github', link: 'https://cofficlab.github.io/zh/gitok/' },
+    ]
   },
 ]
 </script>
