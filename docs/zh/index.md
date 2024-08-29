@@ -111,7 +111,7 @@ const products = [
     name: 'Cisum',
     title: '音频播放 APP',
     links: [
-      { icon: 'github', link: 'https://cofficlab.github.io/en/cisum/' },
+      { icon: 'github', link: 'https://cofficlab.github.io/zh/cisum/' },
     ]
   },
   {
@@ -119,7 +119,7 @@ const products = [
     name: 'JuiceNote',
     title: '笔记 APP',
     links: [
-      { icon: 'github', link: 'https://cofficlab.github.io/en/juiceNote/' },
+      { icon: 'github', link: 'https://cofficlab.github.io/zh/juiceNote/' },
     ]
   },
   {
@@ -127,7 +127,7 @@ const products = [
     name: 'TravelMode',
     title: '连网控制 APP',
     links: [
-      { icon: 'github', link: 'https://cofficlab.github.io/en/travelmode/' },
+      { icon: 'github', link: 'https://cofficlab.github.io/zh/travelmode/' },
     ]
   },
   {
@@ -135,7 +135,7 @@ const products = [
     name: 'JuiceEditor',
     title: '富文本编辑器',
     links: [
-      { icon: 'github', link: 'https://cofficlab.github.io/en/juiceEditor/' },
+      { icon: 'github', link: 'https://cofficlab.github.io/zh/juiceEditor/' },
     ]
   },
   {
@@ -143,7 +143,7 @@ const products = [
     name: 'GitOk',
     title: '项目管理 APP',
     links: [
-      { icon: 'github', link: 'https://cofficlab.github.io/en/gitok/' },
+      { icon: 'github', link: 'https://cofficlab.github.io/zh/gitok/' },
     ]
   },
 ]
