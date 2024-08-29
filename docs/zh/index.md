@@ -21,6 +21,13 @@ hero:
 我喜欢为了某个目标去学习新的技术。  
 我期望和某个小团队一起负责某个产品的成长。
 
+## 正在研究
+
+以下是我目前(2024年)正在研究的内容，欢迎讨论。
+
+- 富文本编辑器，在这里可以看到更多：<https://cofficlab.github.io/zh/juiceEditor>
+- SwiftUI，在这里可以看到更多：<https://cofficlab.github.io/zh/cisum/>
+
 ## 工作能力
 
 ### 研发<Badge type="tip">占80%</Badge>

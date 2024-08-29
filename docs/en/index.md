@@ -21,6 +21,13 @@ WeChat: noookooon
 I enjoy learning new technologies for a specific goal.  
 I look forward to working with a small team to be responsible for the growth of a product.
 
+## Researching
+
+Here's what I'm currently working on (in 2024). Discussions are welcome.
+
+- Rich text editor, see more here: < <https://cofficlab.github.io/zh/juiceEditor> >
+- SwiftUI, see more here: < <https://cofficlab.github.io/zh/cisum/>>
+
 ## Work Abilities
 
 ### Development <Badge type="tip">80%</Badge>
