@@ -18,8 +18,11 @@ hero:
 
 WeChat: noookooon
 
-I enjoy learning new technologies for a specific goal.  
-I look forward to working with a small team to be responsible for the growth of a product.
+I enjoy
+
+- Learning new technologies for a specific goal
+- Using automation tools and artificial intelligence to reduce labor costs
+- Working with a small team to be responsible for the growth of a product.
 
 ## Researching
 
