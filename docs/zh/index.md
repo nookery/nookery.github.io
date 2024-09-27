@@ -28,12 +28,12 @@ hero:
 
 以下是我目前(2024年)正在研究的内容，欢迎讨论。
 
-- 富文本编辑器，在这里可以看到更多：<https://cofficlab.github.io/zh/juiceEditor>
-- SwiftUI，在这里可以看到更多：<https://cofficlab.github.io/zh/cisum/>
+- 集成到 Web 和 APP 中的富文本编辑器，在这里可以看到更多：<https://cofficlab.github.io/zh/juiceEditor><small> （中国大陆可能打不开）</small>
+- SwiftUI，在这里可以看到更多：<https://cofficlab.github.io/zh/cisum/> <small> （中国大陆可能打不开）</small>
 
 ## 工作能力
 
-### 研发<Badge type="tip">占80%</Badge>
+### 研发<Badge type="tip">占90%</Badge>
 
 能快速学习其他技术，喜欢用代码实现想法。
 
@@ -41,9 +41,8 @@ hero:
 - APP 开发：SwiftUI、Flutter、Electron.js
 - 持续集成：熟练使用 GitLab CI 和 GitHub Actions
 - Docker: 在开发环境重度使用
-- 语言能力：除英语口语较少使用，其他皆优秀
 
-### 管理<Badge type="tip">占20%</Badge>
+### 管理<Badge type="tip">占10%</Badge>
 
 - 团队管理：包括产品、前后端开发、设计、测试等岗位的小型团队
 - 技术建设：制定项目规范、流程规范、搭建通用服务、带领团队学习新技术等
@@ -59,27 +58,27 @@ hero:
 
 ### 聚合数据<Badge type="tip">2014-今天</Badge>
 
-![juhe](/images/juhe/product.png)
-
-了解更多：<https://juhe.cn>
-
-### 上市准备<Badge type="tip">2018-2024</Badge>
+为开发者提供 API 服务的综合性服务平台。
 
 涉及到
 
-- 项目的申报
+- 技术架构的建设
 - 技术规范的建设
-- 业务流程的梳理
+- 多个项目的管理
+
+![juhe](/images/juhe/product.png)
+
+了解更多：<https://juhe.cn>
 
 ## 个人博客与作品
 
 <VPTeamMembers size="small" :members="products" />
 
-其中个人作品仅为满足个人使用需求，未做市场推广。可在这里查看更多：<https://cofficlab.github.io/en/>
+其中个人作品仅为满足个人使用需求，可在这里查看更多：<https://cofficlab.github.io/en/> <small> （中国大陆可能打不开）</small>
 
 ## 部分专利成果
 
-其中的链接会在Google专利中打开。
+其中的链接会在 Google 专利中打开。
 
 - [一种密码替换方法及装置](https://patents.google.com/patent/CN113282913A/zh)
 - [一种确定资源消耗的方法和装置](https://patents.google.com/patent/CN114881546B/zh)

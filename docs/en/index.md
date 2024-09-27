@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: 'About Me'
-  # image:
+  name: "About Me"
+  # image: 
   #   src: /images/coffic/logo4.png
   actions:
     - theme: alt
@@ -14,75 +14,74 @@ hero:
       link: /zh/
 ---
 
-## Basic Information <Badge type="tip">985 Bachelor</Badge><Badge type="tip">10 Years Experience</Badge><Badge type="tip">Technology and Management</Badge>
+## Basic Information <Badge type="tip">985 University</Badge><Badge type="tip">10 Years Experience</Badge><Badge type="tip">Tech & Management</Badge>
 
-WeChat: noookooon
+WeChat: noookooon  
 
-I enjoy
+I enjoy:
 
-- Learning new technologies for a specific goal
-- Using automation tools and artificial intelligence to reduce labor costs
-- Working with a small team to be responsible for the growth of a product.
+- Learning new technologies for specific goals
+- Using automation tools and AI to reduce human labor costs
+- Growing a product with a small team
 
-## Researching
+## Current Research
 
-Here's what I'm currently working on (in 2024). Discussions are welcome.
+Here's what I'm currently (2024) researching. Feel free to discuss:
 
-- Rich text editor, see more here: <https://cofficlab.github.io/en/juiceEditor>
-- SwiftUI, see more here: <https://cofficlab.github.io/en/cisum/>
+- Rich text editor integrated into Web and APP, more details here: <https://cofficlab.github.io/en/juiceEditor>
+- SwiftUI, more details here: <https://cofficlab.github.io/en/cisum/>
 
-## Work Abilities
+## Work Capabilities
 
-### Development <Badge type="tip">80%</Badge>
+### Development<Badge type="tip">90%</Badge>
 
-Able to quickly learn other technologies, enjoy implementing ideas with code.
+Quick learner of new technologies, enjoy implementing ideas with code.
 
 - WEB Development: PHP, GoLang, Laravel, Vue.js, TailwindCSS
 - APP Development: SwiftUI, Flutter, Electron.js
-- Continuous Integration: Proficient in using GitLab CI and GitHub Actions
-- Docker: Heavily used in development environments
-- Language Skills: Excellent in all except for less frequent use of spoken English
+- Continuous Integration: Proficient with GitLab CI and GitHub Actions
+- Docker: Heavy use in development environments
 
-### Management <Badge type="tip">20%</Badge>
+### Management<Badge type="tip">10%</Badge>
 
-- Team Management: Including small teams of product, front-end and back-end development, design, testing, etc.
-- Technical Construction: Establishing project standards, process standards, building common services, leading the team to learn new technologies, etc.
-- IPO Related: Assisting with audits, explaining business logic, organizing business documents, organizing prospectuses, etc.
+- Team Management: Small teams including product, front-end/back-end development, design, and testing roles
+- Technical Construction: Establishing project standards, process norms, building common services, leading team in learning new technologies
+- IPO Related: Assisting with audits, explaining business logic, organizing business documents, preparing prospectus, etc.
 
-## Education and Work Experience <Badge type="tip">985 University</Badge><Badge type="tip">C9 University</Badge><Badge type="tip">Listed Company</Badge>
+## Education & Work Experience<Badge type="tip">985 University</Badge><Badge type="tip">C9 University</Badge><Badge type="tip">Listed Company</Badge>
 
 - 2008-2012: Ocean University of China, Food Science and Engineering
-- 2012-2014: University of Science and Technology of China, Software Engineering (Single Certificate)
-- 2014-Present: [Juhe Data](https://juhe.cn), responsible for technology, management, projects, etc., participated in the entire process from product inception to company listing
+- 2012-2014: University of Science and Technology of China, Software Engineering (Single degree, not verifiable on CHSI)
+- 2014-Present: [Juhe Data](https://juhe.cn), responsible for technology, management, projects, etc. Participated in the entire process from product inception to company IPO
 
 ## Major Project Experience
 
-### Juhe Data <Badge type="tip">2014-Present</Badge>
+### Juhe Data<Badge type="tip">2014-Present</Badge>
+
+A comprehensive service platform providing API services for developers.
+
+Involved in:
+
+- Building technical architecture
+- Establishing technical standards
+- Managing multiple projects
 
 ![juhe](/images/juhe/product.png)
 
 Learn more: <https://juhe.cn>
 
-### IPO Preparation <Badge type="tip">2018-2024</Badge>
-
-Involved in
-
-- Project application
-- Construction of technical specifications
-- Sorting out business processes
-
-## Personal Blog and Works
+## Personal Blog & Works
 
 <VPTeamMembers size="small" :members="products" />
 
-Personal works are only for personal use and have not been marketed. More can be seen here: <https://cofficlab.github.io/en/>
+Personal works are primarily to meet personal needs. View more here: <https://cofficlab.github.io/en/>
 
 ## Some Patent Achievements
 
 The links will open in Google Patents.
 
-- [一种密码替换方法及装置](https://patents.google.com/patent/CN113282913A/zh)
-- [一种确定资源消耗的方法和装置](https://patents.google.com/patent/CN114881546B/zh)
+- [Password replacement method and device](https://patents.google.com/patent/CN113282913A/en)
+- [Method and apparatus for determining resource consumption](https://patents.google.com/patent/CN114881546B/en)
 - [Shared file configuration method and device](https://patents.google.com/patent/CN113268288B/en)
 - [Script data configuration method and device](https://patents.google.com/patent/CN114020305A/en)
 - [Project information synchronization method and device](https://patents.google.com/patent/CN114020315A/en)
@@ -112,7 +111,7 @@ const products = [
   {
     avatar: '/images/cisum/logo.min.png',
     name: 'Cisum',
-    title: 'Audio player',
+    title: 'Audio Player APP',
     links: [
       { icon: 'github', link: 'https://cofficlab.github.io/en/cisum/' },
     ]
@@ -120,7 +119,7 @@ const products = [
   {
     avatar: '/images/juiceNote/logo.min.png',
     name: 'JuiceNote',
-    title: 'Note APP',
+    title: 'Note-taking APP',
     links: [
       { icon: 'github', link: 'https://cofficlab.github.io/en/juiceNote/' },
     ]
@@ -128,7 +127,7 @@ const products = [
   {
     avatar: '/images/travelmode/logo.min.png',
     name: 'TravelMode',
-    title: 'Control your network',
+    title: 'Network Control APP',
     links: [
       { icon: 'github', link: 'https://cofficlab.github.io/en/travelmode/' },
     ]
@@ -136,7 +135,7 @@ const products = [
   {
     avatar: '/images/juiceEditor/logo.min.png',
     name: 'JuiceEditor',
-    title: 'Rich text editor',
+    title: 'Rich Text Editor',
     links: [
       { icon: 'github', link: 'https://cofficlab.github.io/en/juiceEditor/' },
     ]
@@ -144,7 +143,7 @@ const products = [
   {
     avatar: '/images/gitok/logo-512x512.png',
     name: 'GitOk',
-    title: 'Project management APP',
+    title: 'Project Management APP',
     links: [
       { icon: 'github', link: 'https://cofficlab.github.io/en/gitok/' },
     ]
